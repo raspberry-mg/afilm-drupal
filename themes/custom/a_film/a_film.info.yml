@@ -1,0 +1,12 @@
+name: Afilm
+type: theme
+description: 'My custom drupal theme.'
+core_version_requirement: ^8 || ^9
+base theme: false
+logo: logo.svg
+screenshot: afilm.png
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
